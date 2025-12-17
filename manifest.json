@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": romyyy,
+  "name": "romyyy",
   "version": "1.0",
   "description": "Note taking assists",
   "action": {
